@@ -87,6 +87,7 @@
     printf("Air sebanyak 4 L didapatkan\n");
     printf("Wadah A : %d L\n", wadah_A);
     printf("Wadah B : %d L\n", wadah_B);
+    printf(" \n");
     printf("Selamat!! Game Water Jug selesai!!\n");
 
     return(0);
