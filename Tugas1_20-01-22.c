@@ -21,6 +21,7 @@
         printf("Dapatkan air sebanyak 4 L\n");
         printf("Wadah A : %d L\n", wadah_A);
         printf("Wadah B : %d L\n", wadah_B);
+        printf(" \n");
         printf("Aksi : \n");
         printf("1. Isi wadah A\n");
         printf("2. Isi wadah B\n");
